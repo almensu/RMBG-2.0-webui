@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+venv/
+.venv/
+ENV/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# Project specific
+examples/
+outputs/
+models/
+*.pth
+*.onnx
+*.pt
+.DS_Store
+.gradio/
+
+# Virtual environment
+RMBG-2.0-webui/
